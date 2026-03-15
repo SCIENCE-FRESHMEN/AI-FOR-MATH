@@ -298,7 +298,7 @@ for i, q in enumerate(recommendations, 1):
 
 ## 👥 团队
 
-WiseStar Team - 智多星项目组  
+
 淘天集团 - 用户&内容技术团队
 
 ## 📧 联系方式
