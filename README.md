@@ -1,6 +1,6 @@
 # WiseStar-MathAgent
 
-![项目Logo](images/logo.png)
+
 
 ---
 
